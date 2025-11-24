@@ -3,5 +3,6 @@ if n<= 9:
     print(n)
 else:
     a=10+(n-10)//2
-    print(n)
+    print(a)
     
+
